@@ -1,5 +1,5 @@
 [project]
-name = "dad"
+name = "dad-detector"
 version = "0.2.1"
 description = "Definitely a Detector, DeDoDe and DISK, DaD and DaD."
 readme = "README.md"
