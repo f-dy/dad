@@ -56,8 +56,13 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 ### In an existing env
 Assuming you already have some env active:
 ```bash
-uv pip install dad@git+https://github.com/Parskatt/dad.git
+uv pip install dad-detector
 ```
+or
+```bash
+uv add dad-detector
+```
+
 ### As a project 
 For dev, etc:
 ```bash
